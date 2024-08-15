@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 1,
+          "name": "Widget 1",
+          "text": "Random Text for Widget 1"
+        },
+        {
+          "id": 2,
+          "name": "Widget 2",
+          "text": "Random Text for Widget 2"
+        }
+      ]
+    },
+    {
+      "name": "Another Category",
+      "widgets": [
+        {
+          "id": 3,
+          "name": "Widget 3",
+          "text": "Random Text for Widget 3"
+        }
+      ]
+    },
+    {
+      "name": "Marketing Dashboard",
+      "widgets": [
+        {
+          "id": 4,
+          "name": "Widget 4",
+          "text": "Random Text for Widget 4"
+        },
+        {
+          "id": 5,
+          "name": "Widget 5",
+          "text": "Random Text for Widget 5"
+        }
+      ]
+    },
+    {
+      "name": "Sales Dashboard",
+      "widgets": [
+        {
+          "id": 6,
+          "name": "Widget 6",
+          "text": "Random Text for Widget 6"
+        },
+        {
+          "id": 7,
+          "name": "Widget 7",
+          "text": "Random Text for Widget 7"
+        }
+      ]
+    }
+  ]
+}
